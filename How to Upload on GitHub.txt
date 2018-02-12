@@ -1,0 +1,9 @@
+Follow Youtube Video:
+
+https://www.youtube.com/watch?v=GCBROgPCox0
+
+git init
+git add .
+git commit -m "added the first file"
+git remote add origin https://github.com/RandeepJohar/Data-Analysis-of-Stock-Using-Tableau-.git
+git push -u origin master
